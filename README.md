@@ -16,6 +16,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 ##### Introduction
 
 ##### Basic Working Flow of the Proxy Server:
+![UML](https://github.com/divitcr7/MultiThreadedProxyServerClient/assets/67183559/0a96d056-3c9e-49a5-9e52-cc2f42c0bd0e)
 
 
 ##### How did we implement Multi-threading?
@@ -71,6 +72,9 @@ $ ./proxy <port no.>
 - To run the proxy without cache Change the name of the file (`proxy_server_with_cache.c to proxy_server_without_cache.c`) MakeFile.
 
 ## Demo
+![cache](https://github.com/divitcr7/MultiThreadedProxyServerClient/assets/67183559/f6d54b65-7077-4cb1-b912-4021e2ba41cb)
+
+
 - When website is opened for the first time (`url not found`) then cache will be miss.
 - Then if you again open that website again then `Data is retrieved from the cache` will be printed.
 
