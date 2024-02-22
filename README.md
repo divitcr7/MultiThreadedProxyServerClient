@@ -5,10 +5,10 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 
 ## Index
 
-- [Project Theory]
-- [How to Run]
-- [Demo]
-- [Contributing]
+- Project Theory
+- How to Run
+- Demo
+- Contributing
 
 ## Project Theory
 
